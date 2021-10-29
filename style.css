@@ -1,23 +1,35 @@
 body {
-    background-color: rgba(199, 221, 235, 0.795);
+    background-color: rgba(188, 200, 207, 0.795);
     background-size: cover;
 }
 h1 {
     font-family:Arial, Helvetica, sans-serif;
-    color: rgba(54, 37, 37, 0.534);
-    font-size: 3.5 em;
+    color: rgba(32, 5, 5, 0.76);
+    font-size: 50px;
     font-weight: bold;
+    text-align: center;
 }
 h2{
     font-family:Arial, Helvetica, sans-serif;
     color: rgba(54, 37, 37, 0.534);
     font-size: 2 em;
-    font-weight:lighter
+    font-weight:lighter;
+    text-align: center;
 }
 ul{
     font-family: 'Times New Roman', Times, serif;
     font-weight:bold;
     font-style:bold;
+    font-size: 1em;
+        background-color: #684960;
+        color: white;
+    padding-block-start: 10px;
+    padding-block-end: 45px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-right: 1000px;
+    border-radius: 15px;
+    text-align:left;
 }
 li{
     font-family: 'Times New Roman', Times, serif;
@@ -27,16 +39,17 @@ li{
 img{
     float: right;
     display: block;
-    margin-right: 50px;
+    margin-right: 100px;
     margin-left: auto;
     margin-top: 10px;
     max-width: 50%;
     max-inline-size: 400px;
     border-radius: 25px;
-    opacity: 0.8;
+    opacity: 0.9;
 }
-h3 {
-    
-
+h5 {
+    font-size: 20 em;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
