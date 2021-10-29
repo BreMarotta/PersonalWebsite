@@ -38,6 +38,22 @@ li{
     font-style:lighter;
     font-size: 1em;
 }
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:normal;
+    font-style:italic;
+    font-size: 1.2em;
+        background-color: #684960;
+        color: white;
+    padding-block-start: 10px;
+    padding-block-end: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 535px;
+    margin-left:35px;
+    border-radius: 15px;
+    text-align:left;
+}
 img{
     float: right;
     display: block;
