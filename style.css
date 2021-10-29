@@ -20,7 +20,7 @@ ul{
     font-family: 'Times New Roman', Times, serif;
     font-weight:bold;
     font-style:bold;
-    font-size: 1em;
+    font-size: 1.2em;
         background-color: #684960;
         color: white;
     padding-block-start: 10px;
@@ -36,6 +36,7 @@ li{
     font-family: 'Times New Roman', Times, serif;
     font-weight:lighter;
     font-style:lighter;
+    font-size: 1em;
 }
 img{
     float: right;
@@ -46,30 +47,28 @@ img{
     max-width: 50%;
     max-inline-size: 400px;
     border-radius: 25px;
-    opacity: 0.9;
-}
-h3 {
-    font-size: 20 em;
-    font-style: normal;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 0.95;
+
 }
 div{
     background-color:rgba(22, 26, 36, 0.904);
     color: seashell;
     padding-block-end: 30px;
 }
-h4{
+h3{
     background-color:rgba(22, 26, 36, 0.904);
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
-    padding-block-end: 7px;
+    padding-block-end: 1px;
 
 }
 a{
     font-family: 'Times New Roman', Times, serif;
     font-weight:lighter;
     color: seashell;
-   
+    margin-right: 35px;
+    margin-left: 25px;
+    
 }
 
 
