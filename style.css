@@ -24,10 +24,11 @@ ul{
         background-color: #684960;
         color: white;
     padding-block-start: 10px;
-    padding-block-end: 45px;
+    padding-block-end: 30px;
     padding-left: 50px;
     padding-right: 50px;
-    margin-right: 1000px;
+    margin-right: 600px;
+    margin-left:100px;
     border-radius: 15px;
     text-align:left;
 }
@@ -47,9 +48,28 @@ img{
     border-radius: 25px;
     opacity: 0.9;
 }
-h5 {
+h3 {
     font-size: 20 em;
     font-style: normal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+div{
+    background-color:rgba(22, 26, 36, 0.904);
+    color: seashell;
+    padding-block-end: 30px;
+}
+h4{
+    background-color:rgba(22, 26, 36, 0.904);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding-block-end: 7px;
+
+}
+a{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:lighter;
+    color: seashell;
+   
+}
+
 
